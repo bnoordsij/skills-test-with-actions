@@ -12,7 +12,7 @@ New line
 
 <!--
   Note here: Learners -- yup, you found the error!
-  Course maintainers -- leave the italics with _ instead of _ for the error case.
+  Course maintainers -- leave the italics with * instead of _ for the error case.
 -->
 
 ### Supportocat
